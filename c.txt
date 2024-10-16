@@ -1,0 +1,2 @@
+exp2에 c.txt 파일생성
+qqq
